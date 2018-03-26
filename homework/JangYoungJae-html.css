@@ -1,0 +1,48 @@
+#banner {
+    background-color: rgb(212, 230, 255);
+    height: 30%;
+    border-radius: 10px 10px 0px 0px;
+}
+.name {
+ padding: 0px 10px 0px 10px;
+}
+
+body {
+    height: 500px;
+    width: 300px;
+    border: 0.7px solid rgb(219, 219, 219);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.name {
+    margin-bottom: 0px;
+    padding: 0px 20px 0px 20px;
+}
+h1 {
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid rgb(214, 214, 214);
+    padding: 10px;
+    margin-bottom: 0px;
+    font-family: "Shrikhand", cursive;
+    color: rgb(54, 54, 68);
+}
+p {
+    height: 200px;
+    padding: 15px 13px 10px 15px;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin-top: 0px;
+    text-indent: 4px;
+    font-family: 'Nanum Gothic';
+}
+.img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%; 
+}
