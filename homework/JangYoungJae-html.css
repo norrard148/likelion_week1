@@ -1,13 +1,13 @@
 #banner {
     background-color: rgb(212, 230, 255);
     height: 30%;
-    border-radius: 10px 10px 0px 0px;
+    
 }
 .name {
  padding: 0px 10px 0px 10px;
 }
 
-body {
+#gogo {
     height: 500px;
     width: 300px;
     border: 0.7px solid rgb(219, 219, 219);
